@@ -8,7 +8,7 @@ const App1 = () => {
     const [Blogs, setBlogs] = useState()
 
     useEffect(() => {
-        fetch("../public/Fackdata.json")
+        fetch("https://raw.githubusercontent.com/Riad123456789/test-website/main/website-Data")
             .then(res => res.json())
             .then(Data => setBlogs(Data))
     }, [])
