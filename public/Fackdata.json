@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of AI: What to Expect in the Next Decade",
+    "author": "Jane Doe",
+    "author_image": "https://i.ibb.co/rZbDBvB/Adobe-Stock-650211873-Preview.jpg",
+    "blog_image": "https://i.ibb.co/Qmn9TXc/brooke-lark-p-XEsx3k-Ru-Nc-unsplash.jpg",
+    "date": "2024-09-05",
+    "tags": ["AI", "Technology", "Future"],
+    "content": "Artificial Intelligence is evolving rapidly and will play an increasingly important role in our lives. Over the next decade, we can expect significant advances in machine learning, natural language processing, and robotics. The impact on industries like healthcare, education, and finance will be transformative."
+  },
+  {
+    "id": 2,
+    "title": "5 Tips for a More Productive Workday",
+    "author": "John Smith",
+    "author_image": "https://i.ibb.co/Bsf91vr/images.jpg",
+    "blog_image": "https://i.ibb.co/zZsp0HC/BJ-494.jpg",
+    "date": "2024-08-22",
+    "tags": ["Productivity", "Work", "Self-improvement"],
+    "content": "Struggling to stay focused during the workday? Here are five practical tips to boost your productivity: plan your tasks the night before, prioritize important tasks, take regular breaks, eliminate distractions, and use productivity tools to stay organized."
+  },
+  {
+    "id": 3,
+    "title": "Traveling on a Budget: Top Destinations for 2024",
+    "author": "Emily Johnson",
+    "author_image": "https://i.ibb.co/b799xts/isolated-shot-young-handsome-male-260nw-2157606039.webp",
+    "blog_image": "https://i.ibb.co/Ns8CLcs/jonathan-borba-m-DR8ji1p-MKg-unsplash-1.jpg",
+    "date": "2024-07-15",
+    "tags": ["Travel", "Budget", "Destinations"],
+    "content": "Looking to explore the world without breaking the bank? Here are some top travel destinations for 2024 that offer amazing experiences on a budget, including Thailand, Portugal, and Mexico. From stunning beaches to rich cultural experiences, these places have it all."
+  },
+  {
+    "id": 4,
+    "title": "Healthy Eating: Simple Meal Prep Ideas for Busy Weekdays",
+    "author": "Sarah Lee",
+    "author_image": "https://i.ibb.co/tHV3fJJ/enjoy-doing-what-seems-impossible-260nw-2137554453.webp",
+    "blog_image": "https://i.ibb.co/drhT2f9/pngtree-halloween-background-a-spectral-pumpkin-patch-where-jack-o-lanterns-image-13935134.jpg",
+    "date": "2024-09-01",
+    "tags": ["Food", "Health", "Meal Prep"],
+    "content": "Meal prepping can save you time and help you eat healthier throughout the week. In this blog post, we share simple and nutritious meal prep ideas, including overnight oats, grilled chicken and veggies, and quinoa salad bowls, all designed to keep you full and energized."
+  },
+  {
+    "id": 5,
+    "title": "The Impact of Remote Work on Company Culture",
+    "author": "Michael Brown",
+    "author_image": "https://i.ibb.co/b799xts/isolated-shot-young-handsome-male-260nw-2157606039.webp",
+    "blog_image": "https://i.ibb.co/bvsvRYc/pre-wedding-photoshoot-ideas-2023-1440x960.jpg",
+    "date": "2024-08-05",
+    "tags": ["Remote Work", "Company Culture", "Workplace"],
+    "content": "As remote work becomes the new normal, many companies are struggling to maintain their culture. This blog explores strategies for fostering connection and collaboration in a virtual environment, including regular team meetings, virtual social events, and transparent communication."
+  }
+]
